@@ -1,11 +1,14 @@
-# MonetMyrtleMentor
+# MentorUp
 
-## Backend REST API
+An MVP website for mentors and mentees to find each other, and learn from each other.
+
+## API
 
 Examples:
 
-POST to `/api/user/new` to create a new user;
+POST to `/api/user/new` to create a new user
 sample POST body:
+
 ```
 {
   firstName: 'John',
